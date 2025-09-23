@@ -1,10 +1,6 @@
 <h1 align="center">✨ Welcome to My Universe ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Haikal!;Web+Developer+%7C+Designer+%7C+Musician;&center=true&width=440&height=45&color=F7C52B&vCenter=true&size=24" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Made%20with-Love-%23FF69B4?style=flat-square&logo=heart" />
   <img src="https://img.shields.io/badge/Build-Open%20Source-00C896?style=flat-square&logo=github" />
   <img src="https://img.shields.io/badge/Theme-Dark%20Mode-121212?style=flat-square&logo=visualstudiocode&logoColor=white" />
