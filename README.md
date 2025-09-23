@@ -34,8 +34,7 @@ Feel free to dive in, star it, fork it, or just chill and look around.
 
 <p align="center">
   <a href="https://github.com/Haikal55"><img src="https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:haikalhidayat026@gmail.com"><img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:contact@hideko.site"><img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
