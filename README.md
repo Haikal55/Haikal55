@@ -1,4 +1,4 @@
-<h1 align="center">✨ Welcome to My Universe ✨</h1>
+<h1 align="center">✨ Welcome to Hideko Universe ✨</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with-Love-%23FF69B4?style=flat-square&logo=heart" />
@@ -21,24 +21,9 @@ Feel free to dive in, star it, fork it, or just chill and look around.
 
 ---
 
-## 🛸 My Works
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [🚀 Portfolio](https://hideko.site/portfolio) | Personal portfolio with animations and responsive UI | `React`, `Tailwind`, `Framer Motion` |
-| [🛍 E-Commerce](https://hideko.site) | PHP + Tailwind shopping app with WhatsApp checkout | `PHP`, `MySQL`, `Tailwind CSS` |
-
----
-
 ## 📡 Connect with Me
 
 <p align="center">
   <a href="https://github.com/Haikal55"><img src="https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:contact@hideko.site"><img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=121212&height=120&section=footer"/>
 </p>
